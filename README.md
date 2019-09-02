@@ -7,3 +7,5 @@ The 1D positional encoding was first proposed in [Attention Is All You Need](htt
 
 The 2D positional encoding is an extention to 2D data, e.g., images. It is implemented as positionalencoding2d.
 You can find examples and visualization in this [notebook ](https://github.com/wzlxjtu/PositionalEncoding2D/blob/master/visualization.ipynb).
+
+For reference and technical details, please refer to our publication at https://arxiv.org/pdf/1908.11415.pdf 
